@@ -1,0 +1,22 @@
+.user-detail {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  flex-flow: column;
+  align-items: center;
+}
+
+.user-detail__field {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+}
+
+.user-detail__field--value {
+  color: #22228f;
+}
+
+.user-detail__field--label {
+  color: #333;
+  font-weight: bold;
+}
