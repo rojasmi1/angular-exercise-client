@@ -1,6 +1,7 @@
-# O3ExerciseClient
+# AngularExerciseClient
 
-This is the client side app that uses the API expoosed by the [o3-exercise-server app](https://github.com/rojasmi1/o3-exercise-server) to load
+This is the client side app that uses the API expoosed by the [angular-exercise-server app](https://github.com/rojasmi1/angular
+-exercise-server) to load
 data from an user based on the username. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.8.
